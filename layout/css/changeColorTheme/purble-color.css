@@ -1,0 +1,108 @@
+
+ .header .navbar .navbar-brand{
+  color: #9644e2;
+}
+.header .navbar .last-link {
+    color: #9644e2 !important;
+    border: 2px solid #9644e2;
+ }
+ .navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(150, 68, 226, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+  .header .info h1 {
+    color: #9644e2;
+  }
+
+  .header .hvr-underline-from-center:before {
+    background: #9644e2;
+  }
+   
+  .about .details span {
+    color: #9644e2;
+  }
+  
+  .about .details hr {
+    color: #9644e2;
+    border: 1px solid #9644e2;
+  }
+  
+  .about .moreDetails {
+    border: 1px solid #9644e2;
+  }
+  
+
+  .about a {
+    background-color: #9644e2;
+    border: 1px solid #9644e2;
+    outline: #9644e2;
+
+  }
+
+  .services span {
+    color: #9644e2;
+    font-weight: bold;
+  }
+
+  .services hr {
+    color: #9644e2;
+    border: 1px solid #9644e2;
+  }
+ 
+  .services .servicesContent i {
+    color: #9644e2;
+  }
+  
+  .skills {
+    color: #fff;
+    background-color: #1f2233;
+    padding: 40px 0 80px;
+  }
+  
+  .skills span {
+    color: #9644e2;
+  }
+  .skills .skillsContent span {
+    color: #9644e2;
+  }
+  .skills hr {
+    color: #9644e2;
+    border: 1px solid #9644e2;
+  }
+
+  .skills .skillsContent h5 {
+    color: #9644e2;
+  }
+
+  .projects span {
+    color: #9644e2;
+
+  }
+  
+  .projects h3 {
+    margin: 20px 0 40px;
+  }
+  
+  .projects hr {
+    color: #9644e2;
+    border: 1px solid #9644e2;
+  }
+  .projects .projectContent .details  {
+    background-color: #9644e2;
+  }
+  .contact span {
+    color: #9644e2;
+  }
+  
+  .contact hr {
+    color: #9644e2;
+    border: 1px solid #9644e2;
+  }
+  
+  .contact .social i {
+    color: #9644e2;
+  }
+
+  .contact .social a:hover {
+    color: #9644e2;
+  }
+  
